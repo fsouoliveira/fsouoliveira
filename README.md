@@ -1,5 +1,5 @@
 👋 Hi There!<br/>
-	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-oliveira-6a0845301)[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f.sou.oli/profilecard/?igsh=aDFmOGtocGRjdW8w)[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f.sou.oli/profilecard/?igsh=aDFmOGtocGRjdW8w)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:f.sou.oli99@gmail.com)
+	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-oliveira-6a0845301)(https://www.instagram.com/f.sou.oli/profilecard/?igsh=aDFmOGtocGRjdW8w)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:f.sou.oli99@gmail.com)
 
 ### Felipe Oliveira<br/>
 (Java | Spring Boot | Node.js | Express | HTML | CSS | Javascript) 🚀
