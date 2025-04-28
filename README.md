@@ -2,7 +2,7 @@
 
 
 ### 👋 Hi There! Felipe Oliveira<br/>
-(Java | Spring Boot | Node.js | Express | HTML | CSS | Javascript) 🚀
+(Java | Spring Boot | Javascript | Node.js) 🚀
 
 
 🎓 Bachelor’s degree student in Computer Science<br/>
